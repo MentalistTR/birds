@@ -1,7 +1,8 @@
-Disclaimer: Decompiled Packages
-The current version of the Birds Project includes decompiled content from 4 packages.
-⚠ Warning:
+Birds Project Decompiled Packages
+The Birds Project's current packages were decompiled manually from bytecode. Only publicly available data was used to rebuild these packages.
 
-There may be errors or missing elements.
-The decompiled content may not perfectly match the original source code.
-Use the decompiled content cautiously and cross-check with the original for accuracy.
+⚠ ATTENTION!
+
+The decompiled packages may not be final and could require changes.
+If you plan to use or modify the project, please verify the bytecode yourself.
+The decompiled content will be updated with every new version.
